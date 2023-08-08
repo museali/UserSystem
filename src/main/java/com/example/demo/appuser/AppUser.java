@@ -15,7 +15,7 @@ public class AppUser implements UserDetails {
     private AppUserRole appUserRole;
     private Boolean locked;
     private Boolean enabled;
-    //test
+
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
         return null;

@@ -7,7 +7,7 @@
 - Using postman we can hit the following endpoints to Post and Get, to the app.
 
 **Post:** localhost:8080/api/v1/registration
-body: {
+**body:** {
     "firstName": "John",
     "lastName": "Doe",
     "email": "john@gmail.com",
@@ -17,7 +17,7 @@ body: {
 - Allows us to add users to the database
 
 **Get:** localhost:8080/api/v1/registration/confirm?token=4493165b-3885-42ae-b188-e79622dd6b6b
-body: {
+**body:** {
     "firstName": "John",
     "lastName": "Doe",
     "email": "john@gmail.com",

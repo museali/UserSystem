@@ -2,7 +2,7 @@
 
 - Purpose of this project is to build a backend using Spring boot, which allows users to register, email verification link and login.
 
-##Postman
+## Postman
 
 - Using postman we can hit the following endpoints to Post and Get, to the app.
 

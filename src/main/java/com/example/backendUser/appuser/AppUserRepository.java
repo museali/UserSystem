@@ -1,4 +1,4 @@
-package com.example.demo.appuser;
+package com.example.backendUser.appuser;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;

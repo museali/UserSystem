@@ -1,4 +1,4 @@
-package com.example.demo.registration;
+package com.example.backendUser.registration;
 
 import org.springframework.stereotype.Service;
 

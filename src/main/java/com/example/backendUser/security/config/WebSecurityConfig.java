@@ -1,7 +1,6 @@
-package com.example.demo.security.config;
+package com.example.backendUser.security.config;
 
-import com.example.demo.appuser.AppUserService;
-import com.example.demo.security.PasswordEncoder;
+import com.example.backendUser.appuser.AppUserService;
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
